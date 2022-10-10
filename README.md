@@ -5,7 +5,7 @@ Para ellos hemos utilizado varias herramientas y seguido varios procesos que pas
 
 1- Optención de tweets:
     - Para el minado de los datos hemos utilizado la librería de python 'twint'.
-    - Estos datos han sido recopilados filtrando la busqueda por los comentarios con la palabra '@TheBridge_Tech' en las fechas comprendidas entre el 13 de Junio de            2002 y el 5 de Octubre de 2022.
+    - Estos datos han sido recopilados filtrando la busqueda por los comentarios con la palabra '@TheBridge_Tech' en las fechas comprendidas entre el 13 de Junio de 2002 y el 5 de Octubre de 2022.
     
 2- Realizar un Analisis Exploratorio de Datos para ver y comprender lo datos que hemos obtenido.
     
