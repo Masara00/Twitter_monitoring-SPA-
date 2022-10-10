@@ -20,7 +20,14 @@ app.config['DEBUG'] = True
 # --HOME--
 @app.route("/", methods=['GET'])
 def hello():    
-    return "<h1>Bienvenido al Home</h1>"
+    return "<h1>Bienvenido al Home</h1>\
+        <p><h2>Ejemplo para introducción de datos:</h2></p>\
+        <p><h3>URL PREDICT</h3></p>\
+        <p><h3>/predict</h3></p>\
+        <p><h3>POSITIVO </h3></p>\
+        <p><h3>/predict?texto=Me encanta. 🤩 Ha sido muy bueno. Ojalá pueda repetir</h3></p>\
+        <p><h3>NEGATIVO O NEUTRO </h3></p>\
+        <p><h3>/predict?texto=Muy deficitario. Estoy muerto. Lo odio 🔥</h3></p>"
 
 # --PREDICCIÓN--
 @app.route('/predict', methods=['GET'])
