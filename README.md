@@ -24,4 +24,4 @@ Para ellos hemos utilizado varias herramientas y seguido varios procesos que pas
   
 6- Crear una aplicación con un endpoit al que le podamos pasar nuevos textos para que nos prediga su sentimiento.
 
-7- Despliegue de la aplicación en 'pythoneverywhere' enlazado con nuestro repositorio de GitHub para poder acceder a ella de forma remota.
+7- Despliegue de la aplicación en 'pythoneverywhere' enlazado con nuestro repositorio de GitHub para poder acceder a ella de forma remota. 
