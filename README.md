@@ -18,7 +18,7 @@ Para ellos hemos utilizado varias herramientas y seguido varios procesos que pas
   - Quitar emojis.
   - Aplicar SnowballStemmer para quedarnos con la raíz de las palabras y ayudar al modelo en cuanto a eficiencia.
 
-5- Utilizar un modelo preentrenado para ver qué sentimientos tienen los tweets. Su clasificación es: 
+5- Utilizar un modelo pre entrenado para ver qué sentimientos tienen los tweets. Su clasificación es: 
   - Sentimiento positivo = 0
   - Sentimiento negativo o neutro = 1
   
