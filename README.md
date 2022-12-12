@@ -1,4 +1,4 @@
-# prueba_tecnica
+# Monitoreo de Twitter
 
 Con este programa queremos hacer un monitoreo de la red social twitter para predecir los sentimientos de los tweets respecto a la cuenta @TheBridge_Tech.
 Para ellos hemos utilizado varias herramientas y seguido varios procesos que paso a enumerar:
